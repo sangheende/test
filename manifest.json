@@ -1,6 +1,6 @@
 {
-  "name": "나만의 카메라 갤러리 vue2",
-  "short_name": "카메라 갤러리 vue2",
+  "name": "Vue3 To-Do 리스트",
+  "short_name": "Vue3 To-Do 리스트",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
@@ -15,7 +15,6 @@
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#ffffff"
 }
